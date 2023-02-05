@@ -1,5 +1,5 @@
 ﻿
-int a = +5;
+float a = +5F;
 
 
 Console.WriteLine($"Ukrainian temperature:{a}");

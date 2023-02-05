@@ -1,7 +1,6 @@
 ﻿
-long a = -1000000000000;
-ulong b = 1000000000000;
+double a = 1000000000999.99;
 
 
-Console.WriteLine($"Limited bank account min:{a}");
-Console.WriteLine($"Limited bank account max:{b}");
+Console.WriteLine($"Limited bank account max:{a}");
+
